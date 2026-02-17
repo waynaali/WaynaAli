@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Wayna Ali
 
-<!--
-**waynaali/WaynaAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electronics Student**  
+Focused on **RTL Design, RISC-V, and Digital Design**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- **Hardware Design:** RTL Design, CPU Pipeline, FSM, ALU  
+- **HDL & Tools:** Verilog, SystemVerilog, Vivado, ModelSim  
+- **Computer Architecture:** RISC-V, Pipelined Processors, Forwarding & Hazard Handling  
+- **Other Tools:** Git, GitHub, Python (for simulation & verification)
+
+---
+
+## 📂 Projects
+
+### CPU-Pipeline-RISC-V
+- 5-stage pipelined RISC-V CPU  
+- Handles **data hazards** and **forwarding logic**  
+- Implemented and simulated in **Verilog**
+
+### FSM-Controller
+- Finite State Machine based controller  
+- Demonstrates **state transitions** and output logic  
+- RTL implementation with **Verilog**
+
+*(More projects coming soon…)*
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Wayna Ali](https://www.linkedin.com/in/wayna-ali-055204209/)  
+- **Email:** waynaali9@gmail.com 
+
+---
+
+## ⚡ Fun Fact
+Learning **IC Design and RTL** is my way of combining **electronics fundamentals** with **digital computing**!
+
